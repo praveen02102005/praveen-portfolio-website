@@ -95,6 +95,7 @@ praveen-portfolio-website/
 ## 📬 Contact
 
 📧 Email: [pk2510659@gmail.com](mailto:pk2510659@gmail.com)
+
 📍 Location: Tamil Nadu, India
 
 ---
@@ -102,9 +103,8 @@ praveen-portfolio-website/
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/praveen02102005
-* LinkedIn: Add Your LinkedIn Profile
-* Portfolio: Add Your Portfolio Link
-
+* LinkedIn:(https://www.linkedin.com/in/praveen-kumar-b-05a182291/)
+* Portfolio:http://localhost:5173/chrome
 ---
 
 ## 🚀 Future Improvements
