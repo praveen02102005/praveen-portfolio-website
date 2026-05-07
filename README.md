@@ -1,344 +1,141 @@
-# praveen-portfolio-website
-<!-- =========================
-        COMPLETE HERO SECTION
-========================= -->
+# 🚀 Portfolio Website
 
-<section class="hero">
+Modern and responsive personal portfolio website for showcasing my skills, projects, services, and contact information.
 
-  <!-- NAVBAR -->
-  <nav class="navbar">
+---
 
-    <!-- LOGO -->
-    <div class="logo">
-      <h2>Praveen<span>.</span></h2>
-    </div>
+## 📌 About The Project
 
-    <!-- MENU -->
-    <ul class="nav-links">
-      <li><a href="#home" class="active">Home</a></li>
-      <li><a href="#about">About Me</a></li>
-      <li><a href="#services">Services</a></li>
-      <li><a href="#portfolio">Portfolio</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
+This is a fully responsive AI & Full Stack Developer portfolio website built using modern frontend technologies.
+The portfolio highlights my:
 
-    <!-- BUTTON -->
-    <div class="nav-btn">
-      <a href="#contact">Connect With Me</a>
-    </div>
+* Skills
+* Services
+* Latest Projects
+* Contact Information
+* Resume
+* Social Links
 
-  </nav>
+---
 
+## 🛠️ Technologies Used
 
-  <!-- HERO CONTENT -->
-  <div class="hero-content">
+* HTML5
+* CSS3
+* JavaScript
+* React JS
+* Python
+* Machine Learning
+* MongoDB
+* Power BI
+* Tableau
 
-    <!-- IMAGE -->
-    <div class="hero-image">
-      <img src="images/profile.png" alt="Praveen">
-    </div>
+---
 
-    <!-- TEXT -->
-    <div class="hero-text">
+## ✨ Features
 
-      <h1>
-        I'm <span>Praveen,</span> AI & Full Stack Developer based in India.
-      </h1>
+✅ Modern UI/UX Design
+✅ Fully Responsive Layout
+✅ Animated Hero Section
+✅ About & Skills Dashboard
+✅ Services Section
+✅ Portfolio Showcase
+✅ Contact Form
+✅ Gradient Buttons & Effects
+✅ Mobile Friendly
 
-      <p>
-        I am an AI and Full Stack Developer from Tamil Nadu, India
-        with experience in web development, machine learning,
-        frontend technologies, and data analytics projects.
-      </p>
+---
 
-      <!-- BUTTONS -->
-      <div class="hero-buttons">
+## 📂 Project Structure
 
-        <a href="#contact" class="btn-primary">
-          Connect with me
-        </a>
+```bash
+praveen-portfolio-website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── profile.png
+│   ├── about.png
+│   ├── project1.jpg
+│   ├── project2.jpg
+│   └── project3.jpg
+│
+└── README.md
+```
 
-        <a href="resume.pdf" class="btn-secondary">
-          My Resume
-        </a>
+---
 
-      </div>
+## 📸 Preview
 
-    </div>
+### 🖥️ Home Page
 
-  </div>
+* Responsive navigation bar
+* Hero section with profile image
+* Gradient typography
+* Call-to-action buttons
 
-</section>
+### 👨‍💻 About Section
 
+* Skills dashboard
+* Experience counters
+* Technology stack
 
+### 🛠️ Services Section
 
-<!-- =========================
-        ABOUT SECTION
-========================= -->
+* Web Development
+* AI & Machine Learning
+* Frontend Development
+* App Development
+* UI/UX Design
 
-<section class="about" id="about">
 
-  <div class="section-title">
-    <h2>About Me</h2>
-  </div>
+---
 
-  <div class="about-container">
+## 📬 Contact
 
-    <div class="about-image">
-      <img src="images/about.png" alt="">
-    </div>
+📧 Email: [pk2510659@gmail.com](mailto:pk2510659@gmail.com)
+📍 Location: Tamil Nadu, India
 
-    <div class="about-content">
+---
 
-      <p>
-        I am currently pursuing B.Tech in Artificial Intelligence
-        and Data Science at Karpaga Vinayaga College of Engineering
-        and Technology.
-      </p>
+## 🌐 Connect With Me
 
-      <p>
-        I specialize in Full Stack Development, AI applications,
-        Machine Learning projects, UI/UX Design, and modern web technologies.
-      </p>
-
-      <!-- SKILLS -->
-      <div class="skills">
-
-        <div class="skill">
-          <p>HTML & CSS</p>
-          <div class="progress">
-            <span style="width:95%"></span>
-          </div>
-        </div>
-
-        <div class="skill">
-          <p>JavaScript</p>
-          <div class="progress">
-            <span style="width:90%"></span>
-          </div>
-        </div>
-
-        <div class="skill">
-          <p>React JS</p>
-          <div class="progress">
-            <span style="width:88%"></span>
-          </div>
-        </div>
-
-        <div class="skill">
-          <p>Python</p>
-          <div class="progress">
-            <span style="width:92%"></span>
-          </div>
-        </div>
-
-      </div>
-
-      <!-- STATS -->
-      <div class="stats">
-
-        <div class="stat-box">
-          <h3>20+</h3>
-          <p>Projects</p>
-        </div>
-
-        <div class="stat-box">
-          <h3>10+</h3>
-          <p>Clients</p>
-        </div>
-
-        <div class="stat-box">
-          <h3>3+</h3>
-          <p>Experience</p>
-        </div>
-
-      </div>
-
-    </div>
-
-  </div>
-
-</section>
-
+* GitHub: https://github.com/praveen02102005
+* LinkedIn: Add Your LinkedIn Profile
+* Portfolio: Add Your Portfolio Link
 
+---
 
-<!-- =========================
-        SERVICES SECTION
-========================= -->
+## 🚀 Future Improvements
 
-<section class="services" id="services">
+* Backend Integration
+* Admin Dashboard
+* Dark/Light Theme Toggle
+* AI Chatbot Integration
+* Database Connectivity
+* Deployment with Vercel/Netlify
 
-  <div class="section-title">
-    <h2>My Services</h2>
-  </div>
+---
 
-  <div class="service-container">
+## ⭐ Support
 
-    <div class="service-card">
-      <h1>01</h1>
-      <h3>Web Development</h3>
-      <p>
-        Responsive and modern website development using latest technologies.
-      </p>
-    </div>
+If you like this project, give it a ⭐ on GitHub!
 
-    <div class="service-card">
-      <h1>02</h1>
-      <h3>AI & ML Projects</h3>
-      <p>
-        Building intelligent AI and Machine Learning applications.
-      </p>
-    </div>
+---
 
-    <div class="service-card">
-      <h1>03</h1>
-      <h3>Frontend Design</h3>
-      <p>
-        Attractive and user-friendly frontend interface designs.
-      </p>
-    </div>
+## 📄 License
 
-    <div class="service-card">
-      <h1>04</h1>
-      <h3>App Development</h3>
-      <p>
-        Android and web app development with modern UI.
-      </p>
-    </div>
+This project is licensed under the MIT License.
 
-    <div class="service-card">
-      <h1>05</h1>
-      <h3>Data Analytics</h3>
-      <p>
-        Data visualization using Power BI, Tableau and Python.
-      </p>
-    </div>
+---
 
-    <div class="service-card">
-      <h1>06</h1>
-      <h3>UI/UX Design</h3>
-      <p>
-        Creative and modern UI/UX design for websites and apps.
-      </p>
-    </div>
+## 👨‍💻 Developed By
 
-  </div>
+# Praveen
 
-</section>
+AI & Full Stack Developer | Data Science Student
 
 
+<img width="1052" height="702" alt="image" src="https://github.com/user-attachments/assets/516143cd-a0ec-4419-b64d-f0a75b6cbfb2" />
 
-<!-- =========================
-        PORTFOLIO SECTION
-========================= -->
-
-<section class="portfolio" id="portfolio">
-
-  <div class="section-title">
-    <h2>My Latest Work</h2>
-  </div>
-
-  <div class="portfolio-container">
-
-    <div class="portfolio-card">
-      <img src="images/project1.jpg" alt="">
-      <h3>AI Resume Analyzer</h3>
-    </div>
-
-    <div class="portfolio-card">
-      <img src="images/project2.jpg" alt="">
-      <h3>Sentiment Analysis</h3>
-    </div>
-
-    <div class="portfolio-card">
-      <img src="images/project3.jpg" alt="">
-      <h3>Construction App</h3>
-    </div>
-
-  </div>
-
-</section>
-
-
-
-<!-- =========================
-        CONTACT SECTION
-========================= -->
-
-<section class="contact" id="contact">
-
-  <div class="section-title">
-    <h2>Get In Touch</h2>
-  </div>
-
-  <div class="contact-container">
-
-    <!-- LEFT -->
-    <div class="contact-left">
-
-      <h2>Let's Talk</h2>
-
-      <p>
-        Feel free to contact me for freelance projects,
-        collaborations, and software development works.
-      </p>
-
-      <p>📧 pk2510659@gmail.com</p>
-
-      <p>📍 Tamil Nadu, India</p>
-
-    </div>
-
-    <!-- RIGHT -->
-    <div class="contact-right">
-
-      <form>
-
-        <input type="text" placeholder="Your Name">
-
-        <input type="email" placeholder="Your Email">
-
-        <textarea rows="7" placeholder="Your Message"></textarea>
-
-        <button type="submit">
-          Submit Now
-        </button>
-
-      </form>
-
-    </div>
-
-  </div>
-
-</section>
-
-
-
-<!-- =========================
-        FOOTER
-========================= -->
-
-<footer>
-
-  <h2>Praveen<span>.</span></h2>
-
-  <p>
-    AI & Full Stack Developer passionate about
-    creating innovative and modern applications.
-  </p>
-
-  <div class="footer-links">
-
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Portfolio</a>
-    <a href="#">Contact</a>
-
-  </div>
-
-  <p class="copyright">
-    © 2026 Praveen. All Rights Reserved.
-  </p>
-
-</footer>
